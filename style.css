@@ -295,7 +295,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
 
 }
 
@@ -316,7 +316,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 20px;
+    margin-left: 36px;
 }
 
 .servicesflex .img1 {
